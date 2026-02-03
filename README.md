@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Abhay%20Prakash%20Dhank" />
 
-I'm Abhay Prakash Dhank, a 2nd-year Computer Science student and Full-Stack Developer 
+I'm Abhay Prakash Dhank, a 2nd-year Computer Science student and Developer 
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
